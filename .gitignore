@@ -1,0 +1,6 @@
+*
+!.gitignore
+!requirements.txt
+!README.md
+!.git/
+!*.ipynb
