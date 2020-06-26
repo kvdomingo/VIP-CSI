@@ -39,6 +39,7 @@ gast==0.2.2
 google-auth==1.11.0
 google-auth-oauthlib==0.4.1
 google-pasta==0.1.8
+graphsurgeon==0.4.1
 grpcio==1.26.0
 h5py==2.10.0
 helpdev==0.6.10
@@ -200,6 +201,7 @@ tornado==6.0.3
 tqdm==4.42.1
 traitlets==4.3.3
 typed-ast==1.4.1
+uff==0.6.5
 uncertainties==3.1.2
 urllib3==1.25.7
 voila==0.1.20
