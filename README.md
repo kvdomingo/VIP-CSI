@@ -10,14 +10,13 @@ Welcome! In this repository, you will find (almost) all my research on compressi
 ```
 git clone https://github.com/kvdomingo/VIP-CSI
 cd VIP-CSI
-python -m pip install --upgrade pip
-python -m pip install virtualenv
+python -m pip install -U pip virtualenv
 python -m venv env
 source env/scripts/activate
-python -m pip install -f requirements.txt
+python -m pip install -r requirements.txt
 ```
 
-## Linux (Ubuntu)
+## Linux/macOS
 - Open a terminal and `cd` to your working directory.
 - Run the following commands:
 ```
@@ -27,8 +26,7 @@ git clone https://github.com/kvdomingo/VIP-CSI
 cd VIP-CSI
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python3 get-pip.py
-pip3 install -U pip
-pip3 install virtualenv
+pip3 install -U pip virtualenv
 virtualenv env
 source env/bin/activate
 pip3 install -r requirements.txt
