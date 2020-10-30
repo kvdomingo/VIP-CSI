@@ -192,7 +192,7 @@ spyder==4.0.1
 spyder-kernels==1.8.1
 tensorboard==2.1.0
 tensorflow-estimator==1.14.0
-tensorflow-gpu==2.1.0
+tensorflow-gpu==2.1.2
 tensorflow-gpu-estimator==2.1.0
 termcolor==1.1.0
 terminado==0.8.3
